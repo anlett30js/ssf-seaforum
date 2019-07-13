@@ -49,7 +49,7 @@ export const IndexPageTemplate = ({
         >
           {title}
         </h1>
-        <h3
+        {/* <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
@@ -61,7 +61,7 @@ export const IndexPageTemplate = ({
           }}
         >
           {subheading}
-        </h3>
+        </h3> */}
       </div>
     </div>
     <section className="section section--gradient">
@@ -70,14 +70,14 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-                <div className="content">
+                {/* <div className="content">
                   <div className="tile">
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
-                </div>
+                </div> */}
                 <div className="columns">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
@@ -89,8 +89,8 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
+                    <Link className="btn" to="/services">
+                      See all services
                     </Link>
                   </div>
                 </div>
