@@ -47,7 +47,7 @@ main:
     alt: A green cup of a coffee on a wooden table
     image: /img/photo-1470520518831-10005602ab67.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: dbvskjdbvsknvksj
+    image: /img/photo-1555435434-d2b5fa602793.jpg
 ---
 
