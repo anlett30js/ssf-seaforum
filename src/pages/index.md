@@ -45,7 +45,7 @@ main:
     image: /img/ecofriendlyproductspost-2-1440x1033.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/photo-1470520518831-10005602ab67.jpg
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
