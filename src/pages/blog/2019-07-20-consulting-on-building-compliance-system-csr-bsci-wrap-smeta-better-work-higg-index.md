@@ -10,7 +10,7 @@ description: >-
 featuredpost: true
 featuredimage: /img/logo-ssf.jpg
 tags:
-  - Sustanability
+  - Sustainability
   - Compliance
 ---
 Consulting on Building Compliance System: CSR, BSCI, WRAP, SMETA,BETTER WORK, HIGG INDEX, ...
