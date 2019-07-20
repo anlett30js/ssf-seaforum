@@ -8,12 +8,16 @@ featuredimage: /img/logo-ssf.jpg
 tags:
   - SSF
 ---
+## __
+
+![](/img/logo-ssf.jpg)
+
+
+
 ## _We are specialize in:_
 
 *  Consulting on Building Compliance System: CSR, BSCI, SMETA, Better Work, C-TPAT, Higg Index...
-*  Providin
-  ![](/img/logo-ssf.jpg)
-  g Social & Compliance Audits
+*  Providing Social & Compliance Audits
 *  Supplying human resours of the Remote or onsite compliance employees
 * Translating & Interpreting
 * Managing on Supply Chain Compliance
