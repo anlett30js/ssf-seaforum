@@ -4,7 +4,7 @@ title: personal inc.
 date: 2019-08-25T10:26:15.697Z
 description: my own company
 featuredpost: false
-featuredimage: /img/2-6fad2.jpg
+featuredimage: /img/67a4ea1335fad5292bfece19adfa52b8.png
 tags:
   - mines
 ---
