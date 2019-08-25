@@ -8,49 +8,7 @@ featuredimage: /img/logo-ssf.jpg
 tags:
   - SSF
 ---
-Update:
-
-
-
-25.8.2019
-
-# personal inc.
-
-
-
-* Consulting on building HR system, Health and Safety, Environement
-* Consulting on building CSR, BSCI, SMETA, Better Work, C-TPAT, Higg Index.v.v.
-* Providing Social & Compliance Audits
-* Providing human resoursce of the remote or onsite compliance staff
-* Supplying Eco friendly products
-
-
-
-
-
-# App for company send question for consultance.
-
-this app is used for work remote of my staff
-
-\- internal audit review
-
-\- CAP review
-
-\- fill  profile
-
-\- guidance 
-
-\- warning sign
-
-\- report in Eng to customer
-
-\*\** the forum of app is users in company need to consult.
-
-\*\** fee 1mil per month.
-
-
-
-
+dfbsdbd
 
 ![](/img/logo-ssf.jpg)
 
