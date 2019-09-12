@@ -2,7 +2,23 @@
 templateKey: blog-post
 title: ZDHC- TOP 10 ISSUES OF CHEMICAL MANAGEMENT
 date: 2019-09-12T14:07:44.102Z
-description: TOP 10 Vấn đề về Quảnlý Hóa chất và Biện phápTốt nhấT
+description: >
+  TOP 10 Vấn đề về Quảnlý Hóa chất và Biện phápTốt nhấT
+
+
+  Các bước:
+
+  Đăng ký acct ZDHC
+
+  Đăng ký lớp học có trả phí từ bên được ZDHC ủy quyền training
+
+  Làm bài test sau khi hoàn thành bảng đánh giá chất lượng lớp học(83 câu hỏi
+  trắc nghiệm)
+
+  Chỉ có thể làm sai 02 lần, nếu quá 02 lần dưới 75 điểm thì sẽ không được cấp
+  GCN.
+
+  Download GCN trực tiếp sau khi hoàn thành bài test.
 featuredpost: true
 featuredimage: /img/1.png
 tags:
