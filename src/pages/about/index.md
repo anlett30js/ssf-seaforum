@@ -19,3 +19,13 @@ We are specialize in:
 \- Training Health & Safety basic or advance
 
 \- Supplying Eco friendly products
+
+_Update 30Dec2019_
+
+_S: Cố vấn doanh nghiệp_
+
+_\- Thiết lập hệ thống tiêu chuẩn: ISO, BSCI, BETTER WORK, FR/UNIQLO, Adidas, IKEA,..._
+
+_\- Các tiêu chuẩn: Higg Index/SAC, ZDHC, CT-PAT..._
+
+_\- Cung cấp các sản phẩm thân thiện môi trường._
