@@ -24,6 +24,8 @@ _Update 30Dec2019_
 
 _S: Cố vấn doanh nghiệp_
 
+_\- Về phát triển bền vững, trách nhiệm xã hội._
+
 _\- Thiết lập hệ thống tiêu chuẩn: ISO, BSCI, BETTER WORK, FR/UNIQLO, Adidas, IKEA,..._
 
 _\- Các tiêu chuẩn: Higg Index/SAC, ZDHC, CT-PAT..._
